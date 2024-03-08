@@ -23,7 +23,7 @@
 rm -rf feeds/smpackage/{base-files,dnsmasq,firewall*,fullconenat,libnftnl,nftables,ppp,opkg,ucl,upx,vsftpd-alt,miniupnpd-iptables,wireless-regdb}
 rm -rf feeds/luci/applications/luci-app-mosdns
 rm -rf feeds/luci/applications/luci-app-smartdns
-rm -rf feeds/packages/net/{alist,adguardhome,chinadns-ng,mosdns,smartdns}
+rm -rf feeds/packages/net/{alist,adguardhome,mosdns,smartdns}
 rm -rf feeds/smpackage/luci-app-adguardhome
 rm -rf feeds/smpackage/luci-app-bypass
 rm -rf feeds/packages/lang/golang
