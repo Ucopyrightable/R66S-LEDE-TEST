@@ -26,5 +26,5 @@ rm -rf feeds/smpackage/{base-files,dnsmasq,firewall*,fullconenat,libnftnl,nftabl
 #rm -rf feeds/packages/net/{alist,adguardhome,mosdns,smartdns}
 #rm -rf feeds/smpackage/luci-app-adguardhome
 #rm -rf feeds/smpackage/luci-app-bypass
-#rm -rf feeds/packages/lang/golang
-#git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
+rm -rf feeds/packages/lang/golang
+git clone https://github.com/kenzok8/golang feeds/packages/lang/golang
